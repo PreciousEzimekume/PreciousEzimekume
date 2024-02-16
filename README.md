@@ -4,7 +4,7 @@ I'm a detail-oriented data analyst with a strong foundation in SQL, Microsoft Ex
 
 ## About Me
 
-- 💼 Currently, I'm a data analyst (intern) at Psylic, where I focus on data extraction, transformation, analysis, and visualization.
+- 💼 I'm a data analyst, I focus on data extraction, transformation, analysis, and visualization.
 - 🌱 I'm always eager to learn and grow in my field, constantly honing my skills in data analysis and visualization.
 - 👯 I'm open to collaborating on projects related to data analysis and visualization, so feel free to reach out!
 - 💬 Let's connect! You can reach me at [hayfaymena@gmail.com](mailto:hayfaymena@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/precious-ezimekume).
